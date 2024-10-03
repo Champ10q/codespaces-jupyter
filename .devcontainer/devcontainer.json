@@ -1,4 +1,6 @@
-{
+  winget install --idGitHub.cli
+chmod +x script/bootstrap chmod +xscript/server
+  
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "hostRequirements": {
     "cpus": 4
